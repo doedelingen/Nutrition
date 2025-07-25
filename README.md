@@ -8,3 +8,6 @@ I have a passion for frugality, so I was curious: if that's true, then why was I
 
 In order to properly compare their attributes, I need to understand their attributes, so I'm going to start with the concept of Macros. This is borrowed from the fitness community, macros stands for "macronutrients" aka carbs, protien, etc.
 I'm going to include quotes from reddit here, and then build a spreadsheet in google sheets to compare the macros and price of several meal recplacement options.
+
+Spreadsheet of different meal replacements:
+[Google sheets: Comparing Meal Replacements](https://docs.google.com/spreadsheets/d/1M7mrWQXUbcWnr0p1EwnJt_Q-tt1NYr2WxZZE0trFNuA/edit?usp=sharing)
